@@ -17,16 +17,16 @@ footer {
 }
 
 .w {
-  background: url('tom1.png');
+  background: url('./tom1.png');
 
 }
 .a {
-  background: url('tom2.png');
+  background: url('./tom2.png');
 
 }
 
 .s {
-  background: url('tom3.png');
+  background: url('./tom3.png');
 
 }
 
